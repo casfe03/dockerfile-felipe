@@ -1,4 +1,4 @@
-FROM registry.stage.redhat.io/rhel7/rhel:7.9
+FROM registry.redhat.io/rhel7/rhel:7.9
 LABEL maintainer="Red Hat, Inc."
 
 LABEL com.redhat.component="rhel-tools-container"
